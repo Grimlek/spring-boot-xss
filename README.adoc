@@ -2,7 +2,7 @@
 
 I'm trying to provide a somewhat meaningful example of https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet#Why_Can.27t_I_Just_HTML_Entity_Encode_Untrusted_Data.3F[Why Can't I Just HTML Entity Encode Untrusted Data?].
 I'd like the demo to work within a JSP (or other Java Based Templating Technology).
-Concreely, I've currently come up with the following example:
+Concretely, I've currently come up with the following example:
 
 [source,xml]
 ----
